@@ -27,8 +27,7 @@ Python 3.x
 pandas, networkx, matplotlib
 To install the necessary packages, run:
 
-Copy code
-'pip install pandas networkx matplotlib'
+`pip install pandas networkx matplotlib`
 
 ## Steps:
 
